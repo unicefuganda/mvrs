@@ -5,7 +5,7 @@ import sys, os
 filedir = os.path.dirname(__file__)
 sys.path.append(os.path.join(filedir))
 sys.path.append(os.path.join(filedir, 'rapidsms_httprouter_src'))
-sys.path.append(os.path.join(filedir, 'rapidsms_xform_src'))
+sys.path.append(os.path.join(filedir, 'rapidsms_xforms_src'))
 sys.path.append(os.path.join(filedir, 'django_eav'))
 sys.path.append(os.path.join(filedir, 'rapidsms_uganda_ussd'))
 sys.path.append(os.path.join(filedir, 'rapidsms_uganda_common'))
