@@ -1,0 +1,27 @@
+[submodule "mvrs_project/django_eav"]
+	path = mvrs_project/django_eav
+	url = https://github.com/unicefuganda/django-eav.git
+[submodule "mvrs_project/rapidsms"]
+	path = mvrs_project/rapidsms
+	url = https://github.com/unicefuganda/rapidsms.git
+[submodule "mvrs_project/rapidsms_generic"]
+	path = mvrs_project/rapidsms_generic
+	url = https://github.com/unicefuganda/rapidsms-generic.git
+[submodule "mvrs_project/rapidsms_httprouter_src"]
+	path = mvrs_project/rapidsms_httprouter_src
+	url = https://github.com/unicefuganda/rapidsms-httprouter.git
+[submodule "mvrs_project/rapidsms_polls"]
+	path = mvrs_project/rapidsms_polls
+	url = https://github.com/unicefuganda/rapidsms-polls.git
+[submodule "mvrs_project/rapidsms_script"]
+	path = mvrs_project/rapidsms_script
+	url = https://github.com/unicefuganda/rapidsms-script.git
+[submodule "mvrs_project/rapidsms_uganda_common"]
+	path = mvrs_project/rapidsms_uganda_common
+	url = https://github.com/unicefuganda/rapidsms-uganda-common.git
+[submodule "mvrs_project/rapidsms_uganda_ussd"]
+	path = mvrs_project/rapidsms_uganda_ussd
+	url = https://github.com/unicefuganda/rapidsms-uganda-ussd.git
+[submodule "mvrs_project/rapidsms_xforms_src"]
+	path = mvrs_project/rapidsms_xforms_src
+	url = https://github.com/unicefuganda/rapidsms-xforms.git
