@@ -25,3 +25,6 @@
 [submodule "mvrs_project/rapidsms_xforms_src"]
 	path = mvrs_project/rapidsms_xforms_src
 	url = https://github.com/unicefuganda/rapidsms-xforms.git
+[submodule "mvrs_project/rapidsms_mvrs"]
+	path = mvrs_project/rapidsms_mvrs
+	url = https://github.com/unicefuganda/rapidsms-mvrs.git
