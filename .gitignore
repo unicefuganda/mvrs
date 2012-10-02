@@ -1,5 +1,11 @@
 *.log
 *.pot
 *.pyc
-local_settings.py
 localsettings.py
+log
+build
+
+*.json~
+.idea
+mobilevrs_project/mobilevrs/fixtures/bkup
+mvrs_project/rapidsms_mvrs/mvrs/creator.py

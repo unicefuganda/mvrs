@@ -10,7 +10,7 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
     # Examples:
-#    url(r'ussd/$', include('mobilevrs.urls')),
+#    url(r'ussd/$', include('mvrs.urls')),
     url(r'^admin/', include(admin.site.urls)),
     (r'^account/', include('rapidsms.urls.login_logout')),
     url(r'^$', direct_to_template, {'template':'ussd/yo.txt'}, name='rapidsms-dashboard'),
