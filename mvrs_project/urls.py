@@ -1,5 +1,4 @@
 from django.conf.urls.defaults import patterns, include, url
-from ussd.urls import urlpatterns as ussd_urls
 from mvrs.urls import urlpatterns as vrs_urls
 from django.views.generic.simple import direct_to_template
 
